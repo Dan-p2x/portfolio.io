@@ -1,10 +1,5 @@
 # Welcome!
-I LOVE BIKES
 
-
-
-
-BLABALABA
 This website was created using HTML, CSS, and JavaScript, hosted on GitHub.
 
 #### Technical Skills: XXX
